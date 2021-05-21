@@ -7,7 +7,7 @@ import kotlin.Comparator
  *@author 985892345
  *@email 2767465918@qq.com
  *@data 2021/5/18
- *@description 双向循环链表，与上次红岩作业写的不同，这次参考了 LinkedList 的源码
+ *@description 双向循环链表，与上次红岩作业写的有些不同，这次参考了 LinkedList 的源码
  */
 class MyLinkedList<E>(c: Collection<E>? = null) : Iterable<E> {
 
